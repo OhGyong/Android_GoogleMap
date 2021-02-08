@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC_Gps_Information_Test</string>
+    <string name="title_activity_main__information">Main_Information</string>
+    <string name="title_activity__information1">Activity_Information1</string>
+    <string name="title_activity__information2">Activity_Information2</string>
+    <string name="title_activity__information3">Activity_Information3</string>
+</resources>
