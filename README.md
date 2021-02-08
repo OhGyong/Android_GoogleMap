@@ -3,3 +3,7 @@
 
 ![1](https://user-images.githubusercontent.com/52282493/107230352-51fff400-6a62-11eb-9146-c400a3f8d419.gif)
 ![2](https://user-images.githubusercontent.com/52282493/107230480-7b208480-6a62-11eb-926b-47df048f1f40.gif)
+
+* 사용한 API
+ * Places API
+ * Maps SDK for Android
