@@ -5,5 +5,5 @@
 ![2](https://user-images.githubusercontent.com/52282493/107230480-7b208480-6a62-11eb-926b-47df048f1f40.gif)
 
 * 사용한 API
- * Places API
- * Maps SDK for Android
+  * Places API
+  * Maps SDK for Android
